@@ -1,3 +1,6 @@
+**Nama : Bayu Baskoro
+    Nim: 19.11.2794
+    IF04**
 **Menu Dan Promo**
 
 Aplikasi ini digunakan untuk simulasi pembelian makanan/minuman yang sederhana dengan menggunakan Voucher/Promo.
