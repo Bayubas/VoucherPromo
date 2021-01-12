@@ -17,9 +17,16 @@ Fungsi pada beberapa kode:
 
 `Penawaran.xaml.cs` digunakan untuk menampilkan daftar makanan minuman dalam listbox
 
-#
-private void generateContentPenawaran()
+```csharp
+ private void generateContentPenawaran()
         {
+            Item coffeLate = new Item("Coffe Late", 30000);
+            Item blackTea = new Item("BlackTea", 20000);
+            Item milkShake = new Item("Milk Shake", 15000);
+            Item watermelonJuice = new Item("Watermelon Juice", 25000);
+            Item lemonSquash = new Item("Lemon Squash", 30000);
+            Item pizza = new Item("Pizza", 75000);
+            Item friedRice = new Item("Fried Rice Special", 45000);
 
             Penawarancontroller.addItem(coffeLate);
             Penawarancontroller.addItem(blackTea);
@@ -31,9 +38,10 @@ private void generateContentPenawaran()
 
             listPenawaran.Items.Refresh();
         }
+```
 
 `PilihVoucher.xaml.cs` Untuk menampilkan daftar voucher dalam list box
-#
+```csharp
 private void generateListVoucher()
         {
             Model.Voucher awalTahun = new Model.Voucher(title: "Promo Awal Tahun Diskon 25%", discInPercent: 25);
@@ -47,8 +55,10 @@ private void generateListVoucher()
             DaftarVoucher.Items.Refresh();
         }
 
+```
 `MainWindow.xaml.cs` Digunakan untuk inisialisasi dan membuat beberapa instance untuk digunakan kedalam list
-#
+
+```csharp
 public MainWindow()
         {
             InitializeComponent();
