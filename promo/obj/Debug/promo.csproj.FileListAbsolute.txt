@@ -1,0 +1,17 @@
+D:\uaspemrog\promo\promo\bin\Debug\promo.exe.config
+D:\uaspemrog\promo\promo\obj\Debug\MainWindow.g.cs
+D:\uaspemrog\promo\promo\obj\Debug\Penawaran.g.cs
+D:\uaspemrog\promo\promo\obj\Debug\PilihVoucher.g.cs
+D:\uaspemrog\promo\promo\obj\Debug\App.g.cs
+D:\uaspemrog\promo\promo\obj\Debug\promo_MarkupCompile.cache
+D:\uaspemrog\promo\promo\obj\Debug\promo_MarkupCompile.lref
+D:\uaspemrog\promo\promo\bin\Debug\promo.exe
+D:\uaspemrog\promo\promo\bin\Debug\promo.pdb
+D:\uaspemrog\promo\promo\obj\Debug\MainWindow.baml
+D:\uaspemrog\promo\promo\obj\Debug\Penawaran.baml
+D:\uaspemrog\promo\promo\obj\Debug\PilihVoucher.baml
+D:\uaspemrog\promo\promo\obj\Debug\promo.g.resources
+D:\uaspemrog\promo\promo\obj\Debug\promo.Properties.Resources.resources
+D:\uaspemrog\promo\promo\obj\Debug\promo.csproj.GenerateResource.Cache
+D:\uaspemrog\promo\promo\obj\Debug\promo.exe
+D:\uaspemrog\promo\promo\obj\Debug\promo.pdb
